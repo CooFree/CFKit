@@ -2,7 +2,7 @@
 
 ### UI工具集合俱乐部   不断更新～～～
 
-|[![](https://github.com/CooFree/CFCustomTableView/blob/master/CFCustomTableView/1.gif)](https://github.com/CooFree/CFCustomTableView/blob/master/CFCustomTableView)|||
+|[![](https://github.com/CooFree/CFCustomTableView/blob/master/CFCustomTableView/1.gif)](https://github.com/CooFree/CFCustomTableView)|||
 |:---:|:---:|:---:|
-|[TableView](https://github.com/CooFree/CFCustomTableView/blob/master/CFCustomTableView)<br>滑动删除、头部放大、图片预览|||
+|[TableView](https://github.com/CooFree/CFCustomTableView)<br>滑动删除、头部放大、图片预览|||
 ||||
