@@ -8,6 +8,6 @@
 ||||
 
 ### 收集的一些供学习的资料
-|[![](https://github.com/CooFree/CFCustomTableView/blob/master/CFCustomTableView/1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|||
+|[![](./study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|||
 |:---:|:---:|:---:|
 |[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|||
