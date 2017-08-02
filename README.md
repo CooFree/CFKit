@@ -8,6 +8,6 @@
 ||||
 
 ### 收集的一些供学习的资料
-|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|||
+|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)||
 |:---:|:---:|:---:|
-|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|||
+|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)||
