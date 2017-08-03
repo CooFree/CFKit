@@ -8,6 +8,6 @@
 ||||
 
 ### 收集的一些供学习的资料
-|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)||
+|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[![](https://github.com/asiosldh/BMDragCellCollectionView/blob/master/Resources/4.gif)](https://github.com/asiosldh/BMDragCellCollectionView)|
 |:---:|:---:|:---:|
-|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)||
+|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
