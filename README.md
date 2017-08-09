@@ -8,6 +8,8 @@
 ||||
 
 ### 收集的一些供学习的资料
-|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[![](https://github.com/asiosldh/BMDragCellCollectionView/blob/master/Resources/4.gif)](https://github.com/asiosldh/BMDragCellCollectionView)|
+|[![](https://github.com/Roylee-ML/SwipeTableView/blob/master/ScreenShots/screenshot2.gif)](https://github.com/Roylee-ML/SwipeTableView)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[![](https://github.com/asiosldh/BMDragCellCollectionView/blob/master/Resources/4.gif)](https://github.com/asiosldh/BMDragCellCollectionView)|
 |:---:|:---:|:---:|
-|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
+|[SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)<br>一个很强大的框架|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
+|[![](./pics/study1.gif)](https://github.com/yixiangboy/IOSAnimationDemo)|||
+|[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo)<br>动画基础学习|||
