@@ -8,9 +8,9 @@
 |[![](https://github.com/CooFree/CFRefresh/blob/master/1.gif)](https://github.com/CooFree/CFRefresh)|||
 |[Refresh](https://github.com/CooFree/CFRefresh)<br>qq、京东、写字、刷新集合|||
 
-### 收集的一些供学习的资料
+### 哎哟～不错哦～
 |[![](https://github.com/adad184/MMParallaxCell/blob/master/DEMO.gif)](https://github.com/adad184/MMParallaxCell)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[![](https://github.com/asiosldh/BMDragCellCollectionView/blob/master/Resources/4.gif)](https://github.com/asiosldh/BMDragCellCollectionView)|
 |:---:|:---:|:---:|
-|[MMParallaxCell](https://github.com/adad184/MMParallaxCell)<br>Cell动画|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
+|[动画MMParallaxCell](https://github.com/adad184/MMParallaxCell)|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
 |[![](./pics/study2.gif)](https://github.com/dogo/SCLAlertView)|[![](https://github.com/lilei644/LLSwitch/blob/master/Preview/LLSwitchDemo.gif)](https://github.com/lilei644/LLSwitch)|[![](https://github.com/CRAnimation/CRNumberFadedAnimation/blob/master/Resource/CRNumberFaded.gif)](https://github.com/CRAnimation/CRNumberFadedAnimation)|
-|[漂亮的AlertView](https://github.com/dogo/SCLAlertView)|[LLSwitch](https://github.com/lilei644/LLSwitch)<br>有趣的switch|[CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation)<br>滑杆效果|
+|[漂亮的AlertView](https://github.com/dogo/SCLAlertView)|[有趣的LLSwitch](https://github.com/lilei644/LLSwitch)|[滑杆效果CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation)|
