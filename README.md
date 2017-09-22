@@ -14,5 +14,5 @@
 |[动画MMParallaxCell](https://github.com/adad184/MMParallaxCell)|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
 |[![](./pics/study2.gif)](https://github.com/dogo/SCLAlertView)|[![](https://github.com/lilei644/LLSwitch/blob/master/Preview/LLSwitchDemo.gif)](https://github.com/lilei644/LLSwitch)|[![](https://github.com/CRAnimation/CRNumberFadedAnimation/blob/master/Resource/CRNumberFaded.gif)](https://github.com/CRAnimation/CRNumberFadedAnimation)|
 |[漂亮的AlertView](https://github.com/dogo/SCLAlertView)|[有趣的LLSwitch](https://github.com/lilei644/LLSwitch)|[滑杆效果CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation)|
-|![](https://raw.githubusercontent.com/btxkenshin/Resource/master/KSGallerySlidingCollectionViewDemo2.gif)|||
-|[KSGallerySlidingCollectionView](https://github.com/btxkenshin/KSGallerySlidingCollectionView)|||
+|![](https://raw.githubusercontent.com/btxkenshin/Resource/master/KSGallerySlidingCollectionViewDemo2.gif)|![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Now2.gif)||
+|[KSGallerySlidingCollectionView](https://github.com/btxkenshin/KSGallerySlidingCollectionView)|[NavigationBarTransition](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition)||
