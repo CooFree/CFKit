@@ -16,3 +16,5 @@
 |[漂亮的AlertView](https://github.com/dogo/SCLAlertView)|[有趣的LLSwitch](https://github.com/lilei644/LLSwitch)|[滑杆效果CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation)|
 |![](https://raw.githubusercontent.com/btxkenshin/Resource/master/KSGallerySlidingCollectionViewDemo2.gif)|![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Now2.gif)|![](https://camo.githubusercontent.com/00d2b3c0d2f2ebb2df788a768fc9db3e05d9aa32/68747470733a2f2f7261772e6769746875622e636f6d2f6f6e65766361742f5656426c757250726573656e746174696f6e2f6d61737465722f4769662f73637265656e73686f742e676966)|
 |[KSGallerySlidingCollectionView](https://github.com/btxkenshin/KSGallerySlidingCollectionView)|[NavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|[透明的ViewController](https://github.com/onevcat/VVBlurPresentation)|
+|[![BRPickerView](https://github.com/91renb/BRPickerView/blob/master/BRPickerViewDemo/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif?raw=true)](https://github.com/91renb/BRPickerView)|||
+|[BRPickerView](https://github.com/91renb/BRPickerView)|||
