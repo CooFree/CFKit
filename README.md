@@ -18,5 +18,5 @@
 |[KSGallerySlidingCollectionView](https://github.com/btxkenshin/KSGallerySlidingCollectionView)|[NavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|[透明的ViewController](https://github.com/onevcat/VVBlurPresentation)|
 |[![BRPickerView](https://github.com/91renb/BRPickerView/blob/master/BRPickerViewDemo/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif?raw=true)](https://github.com/91renb/BRPickerView)|![](https://github.com/listenzz/HBDNavigationBar/raw/master/screenshot/gradient.gif)|[![](https://github.com/Joker-388/JKRCustomSearchController/raw/master/preImage.gif)](https://github.com/Joker-388/JKRCustomSearchController)|
 |[BRPickerView](https://github.com/91renb/BRPickerView)|[NavigationBar返回渐变](https://github.com/listenzz/HBDNavigationBar)|[模仿微信搜索](https://github.com/Joker-388/JKRCustomSearchController)|
-|[![](./pics/22.gif)](https://github.com/whbalzac/WHGradientHelper)|[![](https://github.com/SherlockQi/HKNote/blob/master/image/WeChatFloat.gif)](https://github.com/SherlockQi/HKNote)||
-|[颜色渐变](https://github.com/whbalzac/WHGradientHelper)|[仿微信最新弹框](https://github.com/SherlockQi/HKNote)||
+|[![](./pics/22.gif)](https://github.com/whbalzac/WHGradientHelper)|[![](https://github.com/SherlockQi/HKNote/blob/master/image/WeChatFloat.gif)](https://github.com/SherlockQi/WeChatFloat)||
+|[颜色渐变](https://github.com/whbalzac/WHGradientHelper)|[仿微信最新弹框](https://github.com/SherlockQi/WeChatFloat)||
