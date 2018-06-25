@@ -8,7 +8,16 @@
 |[![](https://github.com/CooFree/CFRefresh/blob/master/1.gif)](https://github.com/CooFree/CFRefresh)|||
 |[Refresh](https://github.com/CooFree/CFRefresh)<br>qq、京东、写字、刷新集合|||
 
+## 微信研究
+
+|     [![](https://github.com/Joker-388/JKRCustomSearchController/raw/master/preImage.gif)](https://github.com/Joker-388/JKRCustomSearchController)                |         [![](https://github.com/SherlockQi/HKNote/blob/master/image/WeChatFloat.gif)](https://github.com/SherlockQi/WeChatFloat)                           |      |
+| :----: | :----: | :----: |
+|  [微信搜索](https://github.com/Joker-388/JKRCustomSearchController)     |     [微信最新弹框](https://github.com/SherlockQi/WeChatFloat)           |      |
+|      |      |      |
+
+
 ## 供学习
+
 |[![](https://github.com/adad184/MMParallaxCell/blob/master/DEMO.gif)](https://github.com/adad184/MMParallaxCell)|[![](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout/master/Assets/animation.gif)](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[![](https://github.com/asiosldh/BMDragCellCollectionView/blob/master/Resources/4.gif)](https://github.com/asiosldh/BMDragCellCollectionView)|
 |:---:|:---:|:---:|
 |[动画MMParallaxCell](https://github.com/adad184/MMParallaxCell)|[拖动CollectionView](https://raw.githubusercontent.com/ra1028/RACollectionViewReorderableTripletLayout)|[今日头条频道拖拽重排效果实现。](https://github.com/asiosldh/BMDragCellCollectionView)|
